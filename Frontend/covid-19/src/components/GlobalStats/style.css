@@ -1,0 +1,11 @@
+.cases {
+  font-size: 14px;
+}
+
+.borderBox {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin-left: 300px;
+  margin: 20px;
+}
